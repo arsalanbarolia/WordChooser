@@ -42,7 +42,7 @@ A play-through of the full game can be viewed in the Demo Section.
 
 ## Demo
 
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/watch?v=3I4MW31st7s")
+[![Demo of WordChooser](https://user-images.githubusercontent.com/35279249/184716138-c0994452-575e-46ee-8a5c-d93dc6971565.JPG)](https://www.youtube.com/watch?v=3I4MW31st7s")
 
 [Back To The Top](#project)
 
