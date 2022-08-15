@@ -32,7 +32,7 @@ The direction of the selections was based off the options/directions seen on the
  <img src="Images/options-example.JPG" alt="Example of options in WordChooser">
 </p>
 
-> The [full code](code) and [report](file/Barolia_WordChooserReport.pdf), with diagrams and the logic behind the joystick, can be viewed.
+> The [full code](Code) and [report](File/Barolia_WordChooserReport.pdf), with diagrams and the logic behind the joystick, can be viewed.
 
 A play-through of the full game can be viewed in the Demo Section.
 
