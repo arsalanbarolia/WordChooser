@@ -8,7 +8,7 @@
 
 > The overview circuit board of the WordChooser game.
 
->> The [full code](Code) and [report](File/Barolia_WordChooserReport.pdf), with diagrams and the logic behind the joystick, can be viewed.
+> The [full code](Code) and [report](File/Barolia_WordChooserReport.pdf), with diagrams and the logic behind the joystick, can be viewed.
 ---
 
 ### Table of Contents
