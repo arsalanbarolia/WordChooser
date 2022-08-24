@@ -7,7 +7,7 @@
 </p>
 
 > The overview circuit board of the WordChooser game.
-
+> The [full code](Code) and [report](File/Barolia_WordChooserReport.pdf), with diagrams and the logic behind the joystick, can be viewed.
 ---
 
 ### Table of Contents
@@ -32,8 +32,6 @@ The direction of the selections was based off the options/directions seen on the
  <img src="Images/options-example.JPG" alt="Example of options in WordChooser">
 </p>
 
-> The [full code](Code) and [report](File/Barolia_WordChooserReport.pdf), with diagrams and the logic behind the joystick, can be viewed.
-
 A play-through of the full game can be viewed in the Demo Section.
 
 [Back To The Top](#project)
@@ -52,9 +50,9 @@ A play-through of the full game can be viewed in the Demo Section.
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
